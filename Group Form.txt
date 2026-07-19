@@ -1,9 +1,15 @@
-Leader =MAYS
+fun main() {
+    val leader = "MAYS"
 
-Team Member 1 =
+    val teamMember1 = ""
+    val teamMember2 = ""
+    val teamMember3 = ""
+    val teamMember4 = ""
 
-Team Member 2 =
+    println("Leader = $leader")
+    println("Team Member 1 = $teamMember1")
+    println("Team Member 2 = $teamMember2")
+    println("Team Member 3 = $teamMember3")
+    println("Team Member 4 = $teamMember4")
 
-Team Member 3 =
-
-Team Member 4 =
+}
