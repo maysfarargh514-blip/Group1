@@ -1,7 +1,7 @@
 fun main() {
     val leader = "MAYS"
 
-    val teamMember1 = ""
+    val teamMember1 = "Shahed"
     val teamMember2 = ""
     val teamMember3 = ""
     val teamMember4 = ""
