@@ -2,9 +2,9 @@ fun main() {
     val leader = "MAYS"
 
     val teamMember1 = "Shahed"
-    val teamMember2 = ""
+    val teamMember2 = "Shosho"
     val teamMember3 = "Sahar"
-    val teamMember4 = ""
+    val teamMember4 = "Fatima"
 
     println("Leader = $leader")
     println("Team Member 1 = $teamMember1")
